@@ -4,9 +4,9 @@ US-Blk,,,,
 US-MMS,,,,
 US-MOz,,,,
 US-Dia,,,,
-US-KUT,0.03,0.049,159.6,Temperature grassland
+US-KUT,,,,
 CA-Qcu,,,,
-CA-Qfo,1.86,9.66,8.55,Boreal Mature Black Spruce
+CA-Qfo,,,,
 US-Slt,,,,
 US-UMB,,,,
 US-Br3,,,,
@@ -16,6 +16,6 @@ US-Whs,,,,
 US-SRG,,,,
 US-Var,0.09,0.03499,58.0899,Grasslands
 US-Bo2,,,,
-US-Br1,,,,
+US-Br1,0.09,0.693,27.3820,Cropland
 CA-TPD,,,,
 US-Oho,,,,
